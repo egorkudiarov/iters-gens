@@ -1,5 +1,7 @@
 from flat_generator import flat_generator
 from FlatIterator import FlatIterator
+import types
+
 
 def test_1():
 
